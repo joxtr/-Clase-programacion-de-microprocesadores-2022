@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <MASM Include="N0_plantilla_programas.asm" />
+    <MASM Include="N1_Presentacion.asm" />
+    <MASM Include="N2_CaracteresEnMemoria.asm" />
+    <MASM Include="N3_Variables_1.asm" />
+    <MASM Include="N4_Nums_Negativos.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+</Project>
