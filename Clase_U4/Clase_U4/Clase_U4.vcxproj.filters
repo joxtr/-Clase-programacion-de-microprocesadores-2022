@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="P_00_Plantilla.asm" />
+    <MASM Include="P_08_Arreglos_bidimensionales.asm" />
+    <MASM Include="P_09_matriz_bidimensional.asm" />
+    <MASM Include="P_03_VectoresEjemplo3.asm" />
+    <MASM Include="P_02_VectoresEjemplo2.asm" />
+    <MASM Include="P_01_Vectores_Unidimensionales.asm" />
+    <MASM Include="P_10_Matriz_Bidimensional_con_Macro.asm" />
+    <MASM Include="P_11_Recorrida_Matriz.asm" />
+    <MASM Include="P_12_MOV58.asm" />
+    <MASM Include="P_13_Prefijo_REP_.asm" />
+    <MASM Include="P_14_CMPSB.asm" />
+    <MASM Include="P_15_SCASB.asm" />
+    <MASM Include="P_16_REPNZ_scasb.asm" />
+    <MASM Include="P_17_STOSB.asm" />
+    <MASM Include="P_18_LODSB.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LibreriaMacros.inc" />
+  </ItemGroup>
+</Project>
