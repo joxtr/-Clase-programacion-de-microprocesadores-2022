@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="P_00_Plantilla.asm" />
+    <MASM Include="P_01_MOV_part1.asm" />
+    <MASM Include="P_02_MOV_part2.asm" />
+    <MASM Include="P_03_ADD.asm" />
+    <MASM Include="P_04_SUB.asm" />
+    <MASM Include="P_05_MUL.asm" />
+    <MASM Include="P_06_DIV.asm" />
+    <MASM Include="P_07_EscrituraEnPantallaDeNumeros.asm" />
+    <MASM Include="P_08_EscrituraTextoEnPantalla.asm" />
+    <MASM Include="P_09_LeesNumerosdePantalla.asm" />
+    <MASM Include="P_10_SumaDe2Numeros.asm" />
+    <MASM Include="P_11_SumaDe3Numeros.asm" />
+    <MASM Include="P_12_SaltosIncondicionales.asm" />
+    <MASM Include="P_13_Ejemplo1SaltosCondicionales.asm" />
+    <MASM Include="P_14_ChecarMayoryMenor.asm" />
+    <MASM Include="P_15_IntroCiclos.asm" />
+    <MASM Include="P_16_Imprimir_N_PrimerosPares.asm" />
+    <MASM Include="P_17_Factorial.asm" />
+    <MASM Include="P_18_XalaY.asm" />
+    <MASM Include="P_19_TabladeMultiplicar1.asm" />
+    <MASM Include="P_20_TablaMultiplicarResuelve.asm" />
+    <MASM Include="P_21_Intro_Loop.asm" />
+    <MASM Include="P_22_LeerMientrasPositivo.asm" />
+    <MASM Include="P_23_CiclosAnidados.asm" />
+    <MASM Include="P_24_ChecarNesPrimos.asm" />
+    <MASM Include="P_25_ChecarPrimosEntreAyB.asm" />
+    <MASM Include="P_26_PerimetroRectangulo.asm" />
+    <MASM Include="P_27_AreaTriangulo.asm" />
+    <MASM Include="P_28_ValorAbsoluto.asm" />
+    <MASM Include="P_29_CiclosAnidados_Pila.asm" />
+    <MASM Include="P_30_EjemploBasicoConLaPila.asm" />
+    <MASM Include="P_31_EjemploBasico2_ConPila.asm" />
+    <MASM Include="P_32_ImpresionTablasMultiplicas.asm" />
+    <MASM Include="Ej3_Y_Hasta_0.asm" />
+    <MASM Include="Ej4_ImprimirNota.asm" />
+  </ItemGroup>
+</Project>
