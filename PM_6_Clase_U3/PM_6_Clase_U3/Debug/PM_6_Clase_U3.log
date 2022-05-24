@@ -1,0 +1,4 @@
+﻿  Assembling P_12_IntroMacrosV3.asm...
+LibreriaMacros.inc(21): error A2008: syntax error : calc_area_rectangulo_v1
+LibreriaMacros.inc(32): fatal error A1008: unmatched macro nesting
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: El comando "ml.exe /c /nologo /Zi /Fo"Debug\P_12_IntroMacrosV3.obj" /Fl"PM_6_Clase_U3.lst" /I "C:\Irvine" /W3 /errorReport:prompt  /TaP_12_IntroMacrosV3.asm" salió con el código 1.

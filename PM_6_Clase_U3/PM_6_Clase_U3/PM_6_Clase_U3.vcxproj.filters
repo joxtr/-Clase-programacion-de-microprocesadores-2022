@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="P_00_Plantilla.asm" />
+    <MASM Include="P_01_WaitMsg.asm" />
+    <MASM Include="P_02_ReadWriteChar.asm" />
+    <MASM Include="P_03_RandomV1.asm" />
+    <MASM Include="P_04_RandomV2.asm" />
+    <MASM Include="P_05_RandomV3.asm" />
+    <MASM Include="P_07_MsgBox.asm" />
+    <MASM Include="P_08_MsgBoxAsk.asm" />
+    <MASM Include="P_09_Delay_Cisr.asm" />
+    <MASM Include="P_10_IntroMacros.asm" />
+    <MASM Include="P_12_IntroMacrosV3.asm" />
+    <MASM Include="P_11_IntroMacrosV2.asm" />
+    <MASM Include="P_13_Macros_V1_AreaRectagulos.asm" />
+    <MASM Include="P_14_Macro_V2_AreaRectangulo_V2.asm" />
+    <MASM Include="P_15_Macros_V3_AreaRectangulo.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LibreriaMacros.inc" />
+  </ItemGroup>
+</Project>
